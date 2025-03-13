@@ -67,10 +67,15 @@ This is a professional Gym Website designed to help individuals achieve their fi
 
 ## 🌟 Features
 ✅ Responsive and clean UI
+
 ✅ Real-time exercise search
+
 ✅ Exercise tutorials with videos
+
 ✅ Smooth horizontal scrolling
+
 ✅ Efficient state management using React
+
 ✅ Custom hooks and reusable components
 
 ## 💻 Setup
