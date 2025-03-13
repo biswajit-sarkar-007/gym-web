@@ -93,7 +93,11 @@ Create a .env file and configure your API keys like this:
 ### Contributions are welcome! Please follow these steps:
 
 1.Fork the repository
+
 2.Create a feature branch (git checkout -b feature/branch-name)
+
 3.Commit your changes (git commit -m "Add some feature")
+
 4.Push to the branch (git push origin feature/branch-name)
+
 5.Create a new Pull Request
