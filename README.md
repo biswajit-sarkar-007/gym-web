@@ -5,9 +5,13 @@ This is a professional Gym Website designed to help individuals achieve their fi
 
 ### The website is built using React and Material-UI for a smooth and responsive user experience. The site includes:
 ✅ Interactive exercise search and display
+
 ✅ Clean and responsive UI
+
 ✅ Exercise details with video support
+
 ✅ Horizontal scrolling for better accessibility
+
 ✅ Lightweight and fast loading
 
 
