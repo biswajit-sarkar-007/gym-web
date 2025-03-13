@@ -18,13 +18,21 @@ This is a professional Gym Website designed to help individuals achieve their fi
 ## 🛠️ Tech Stack
  
 1.JavaScript – Programming language used for dynamic behavior
+
 2.Node.js – JavaScript runtime for backend operations
+
 3.CSS – Styling and layout
+
 4.Material-UI – Component library for responsive design
+
 5.React – Frontend library for building UI components
+
 6.React Router – Enables navigation between pages
+
 7.React Horizontal Scrolling Menu – Provides horizontal scrolling feature
+
 8.React Loader Spinner – Displays a loading spinner for better user feedback
+
 9.Rapid API- For fetch every gym releted data or youtube search video (ExerciseDB, YoutubeSearch)
 
 ## 📂 File Structure
