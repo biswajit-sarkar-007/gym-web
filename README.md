@@ -90,6 +90,10 @@ This is a professional Gym Website designed to help individuals achieve their fi
 
 ✅ Custom hooks and reusable components
 
+## Demo 
+
+https://github.com/user-attachments/assets/d63f96b8-cb10-404a-af85-c67c64ead85d
+
 ## 💻 Setup
 1. Clone the repository
 `git clone https://github.com/your-username/gym-website.git
